@@ -2,7 +2,7 @@ altgraph==0.16.1
 appdirs==1.4.3
 argcomplete==1.8.2
 beautifulsoup4==4.5.3
-certifi==2018.8.13
+certifi==2022.12.7
 chardet==2.3.0
 docx2txt==0.6
 EbookLib==0.15
